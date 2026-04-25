@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Распознавание музыкальных жанров</string>
+    <string name="title_activity_main_example">MainActivityExample</string>
+</resources>
